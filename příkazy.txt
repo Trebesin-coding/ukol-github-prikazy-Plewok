@@ -1,0 +1,4 @@
+git clone https://github.com/Trebesin-coding/ukol-github-prikazy-Plewok.git
+git add . neco.html
+git commit -am "Nahrání webovky"
+git push origin main
